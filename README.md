@@ -1,2 +1,2 @@
 # Snake_Game
-Using javascript
+Snake_game is developed with the help of javascript.
