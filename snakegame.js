@@ -8,7 +8,7 @@ function Snakegame(){
   
   this.update = function()
   {
-    for(let i=0;i<this.tail.length-1;i++)
+    for(let i=0;i<this.tail.length-1;i++)    //updating length of a Snake 
     {
       this.tail[i] = this.tail[i+1]; 
     }
@@ -16,7 +16,7 @@ function Snakegame(){
     {
      this.tail[this.total-1] = createVector(this.x,this.y);
     }
-    this.x = this.x + this.xspeed*20;
+    this.x = this.x + this.xspeed*20;        // assigned velocity
     this.y = this.y + this.yspeed*20;
   
    this.x = constrain(this.x,0,width-20);
