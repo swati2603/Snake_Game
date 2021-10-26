@@ -21,7 +21,7 @@ So here you go! 🙂
 
 **2.** Clone the forked repository.
 
-git clone https://github.com/swati2603/Snake_Game.git
+git clone https://github.com/yourusername/Snake_Game.git
 
 <br>
 
