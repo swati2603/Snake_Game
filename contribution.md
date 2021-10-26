@@ -1,8 +1,8 @@
-CONTRIBUTING GUIDELINES
+# CONTRIBUTING GUIDELINES
 Are you worried about how to contribute? 😟
 So here you go! 🙂
 
-How to Contribute?
+## How to Contribute?
 For a successful contribution you must have to follow these steps:
 Fork the Repo and create a Branch for any Issue that you are working upon.
 Create a Pull Request which will be promptly reviewed and suggestions would be added to improve it.
@@ -14,32 +14,32 @@ How to make a pull request?
 
 2. Clone the forked repository.
 
-git clone https://github.com/swati2603/Snake_Game.git
+   git clone https://github.com/yourusername/Snake_Game.git
 
 3. Navigate to the project directory.
 
-cd Snake_Game.git
+  cd Snake_Game.git
 
-4. Create a new branch and check it:
+4. Create a new branch and check it.
 
-git branch <YourBranchName>
-git checkout <YourBranchName>
+  git branch <YourBranchName>
+  git checkout <YourBranchName>
 
 5. Make changes in source code.
 
 
 6. Stage your changes and commit
 
-git add .
+   git add .
 
-git commit -m "your_commit_message"
+   git commit -m <"your_commit_message">
 
-Use apporopriate emojis for your commit messages from Gitmoji
+ Use apporopriate emojis for your commit messages from Gitmoji
 
 
 7. Push your local commits to the remote repo.
 
-git push origin YourBranchName
+   git push origin <YourBranchName>
 
 8. Create a PR
 
